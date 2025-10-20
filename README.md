@@ -1,2 +1,2 @@
 # project3C
-Java EE(MySql、Spring Boot)
+Java EE(using Eclipse、MySql、Spring Boot)
